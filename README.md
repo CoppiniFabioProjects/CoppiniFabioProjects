@@ -1,7 +1,7 @@
-<!-- Header Animato in stile Cyber/Purple -->
+<!-- Header Animato -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D300%26section%3Dheader%26text%3DFabio%2520Coppini%26desc%3DDigital%2520Creative%2520%2526%2520Developer%2520%257C%2520Informatica%2520Umanistica%26fontSize%3D70%26fontColor%3Da855f7%26fontAlignY%3D40%26animation%3DfadeIn%26descAlignY%3D60%26descSize%3D20" width="100%" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D300%26section%3Dheader%26text%3DFabio%2520Coppini%26desc%3DDigital%2520Creative%2520%2526%2520Developer%2520%257C%2520Informatica%2520Umanistica%26fontSize%3D70%26fontColor%3Da855f7%26fontAlignY%3D40%26animation%3DfadeIn%26descAlignY%3D60%26descSize%3D20" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -67,9 +67,9 @@ Tools & Robotics
 📊 Statistiche GitHub
 
 <div align="center">
-<!-- Sostituisci TUO-USERNAME-GITHUB con il tuo username reale -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTUO-USERNAME-GITHUB%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe" height="180" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTUO-USERNAME-GITHUB%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe" height="180" alt="languages graph" />
+<!-- Sostituisci CoppiniFabioProjects con il tuo username se diverso -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DCoppiniFabioProjects%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe" height="180" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCoppiniFabioProjects%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe" height="180" alt="languages graph" />
 </div>
 
 ⚡ Timeline Esperienza
@@ -105,16 +105,16 @@ gantt
 
 
 <a href="mailto:coppinifabio99@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-coppinifabio99%2540gmail.com-a855f7%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-coppinifabio99%2540gmail.com-a855f7%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/coppinifabio/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Fabio%2520Coppini-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Fabio%2520Coppini-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 <a href="https://www.ventoevertigine.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Volontariato-Vento%2520e%2520Vertigine-white%3Fstyle%3Dflat-square%26logo%3Dheart%26logoColor%3Dred" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Volontariato-Vento%2520e%2520Vertigine-white%3Fstyle%3Dflat-square%26logo%3Dheart%26logoColor%3Dred" alt="Volontariato" />
 </a>
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D100%26section%3Dfooter" width="100%" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D100%26section%3Dfooter" width="100%" alt="Footer" />
 </div>
