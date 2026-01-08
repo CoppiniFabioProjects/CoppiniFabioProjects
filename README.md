@@ -19,13 +19,13 @@ Digital Creative & Developer
 
 <p align="center">
 <a href="mailto:coppinifabio99@gmail.com">
-<img src="https://img.shields.io/badge/Email-coppinifabio99%2540gmail.com-black%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26color%3Da855f7" alt="Email" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-coppinifabio99%2540gmail.com-black%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26color%3Da855f7" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/coppinifabio/">
-<img src="https://img.shields.io/badge/LinkedIn-Fabio%2520Coppini-black%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26color%3D0077B5" alt="LinkedIn" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Fabio%2520Coppini-black%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26color%3D0077B5" alt="LinkedIn" />
 </a>
 <a href="https://github.com/CoppiniFabioProjects">
-<img src="https://img.shields.io/badge/GitHub-CoppiniFabioProjects-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26color%3D181717" alt="GitHub" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-CoppiniFabioProjects-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26color%3D181717" alt="GitHub" />
 </a>
 </p>
 </div>
@@ -131,7 +131,7 @@ Ethical Tech Community
 
 
 <a href="https://github.com/CoppiniFabioProjects">
-<img align="center" src="https://github-readme-stats.vercel.app/api%3Fusername%3DCoppiniFabioProjects%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe%26text_color%3De2e8f0" alt="Fabio's GitHub Stats" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DCoppiniFabioProjects%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe%26text_color%3De2e8f0" alt="Fabio's GitHub Stats" />
 </a>
 
 
@@ -141,7 +141,7 @@ Ethical Tech Community
 
 
 <a href="https://github.com/CoppiniFabioProjects">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCoppiniFabioProjects%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26text_color%3De2e8f0" alt="Top Langs" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCoppiniFabioProjects%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26text_color%3De2e8f0" alt="Top Langs" />
 </a>
 </div>
 
