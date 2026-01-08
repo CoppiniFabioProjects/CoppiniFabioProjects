@@ -1,42 +1,68 @@
-<!-- Header Animato -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D300%26section%3Dheader%26text%3DFabio%2520Coppini%26desc%3DDigital%2520Creative%2520%2526%2520Developer%2520%257C%2520Informatica%2520Umanistica%26fontSize%3D70%26fontColor%3Da855f7%26fontAlignY%3D40%26animation%3DfadeIn%26descAlignY%3D60%26descSize%3D20" width="100%" alt="Header" />
-</div>
-
 <div align="center">
 
-🦅 "Libero come un'aquila. Code forged in fire & logic."
+<img src="https://raw.githubusercontent.com/CoppiniFabioProjects/portfolio/main/garuda.png" alt="Garuda Eagle" width="200" />
+
+<h1 align="center">Ciao, sono Fabio Coppini 👋</h1>
+
+<h3 align="center">
+Digital Creative & Developer 
+
+
+
+
+<span style="color: #a855f7;">Informatica Umanistica | Web Development | Robotics Education</span>
+</h3>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/CoppiniFabioProjects">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DSpace%2BGrotesk%26weight%3D600%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3Da855f7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DInformatico%2BUmanista%3BSviluppatore%2BWeb%2B%2526%2BJava%3BEducatore%2Bdi%2BRobotica%3BAppassionato%2Bdi%2BNLP%2B%2526%2BAI" alt="Typing SVG" />
-</a>
+<em>"Opero nell'intersezione rara tra la fredda precisione degli algoritmi e la caotica bellezza della cultura umana."</em>
 </p>
 
+<p align="center">
+<a href="mailto:coppinifabio99@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-coppinifabio99%2540gmail.com-black%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26color%3Da855f7" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/coppinifabio/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Fabio%2520Coppini-black%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26color%3D0077B5" alt="LinkedIn" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/CoppiniFabioProjects">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-CoppiniFabioProjects-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26color%3D181717" alt="GitHub" />
+</a>
+</p>
 </div>
 
-👨‍💻 Chi sono
+🦅 Chi Sono
 
-Non sono il classico sviluppatore. Laureato in Informatica Umanistica all'Università di Pisa, opero nell'intersezione rara tra la fredda precisione degli algoritmi e la caotica bellezza della cultura umana.
+Non sono il classico sviluppatore. Laureato in Informatica Umanistica all'Università di Pisa (Tesi NLP), fondo la logica del codice con la sensibilità umanistica.
 
-🔭 Attualmente lavoro come Apprendista Programmatore presso 01Informatica (Java, CMS, Hardware).
+🔭 Attualmente lavoro come Apprendista Programmatore & "Sbottinatore" Tuttofare presso 01Informatica.
 
-🤖 Insegno Logica e Robotica (Lego Spike, Ozobot) con Scienza Ludica APS.
+🤖 Insegno Robotica Educativa e logica computazionale nelle scuole con Scienza Ludica APS.
 
-🌱 Sto approfondendo Architetture Ibride (SQL Server/DB2) e Logistica.
+⚡ Motto: "Libero come un'aquila."
 
-🎓 Tesi NLP: Analisi computazionale sui testi delle medaglie d'oro.
+🧠 Interessi: Leopardi, Scacchi, Oscar Wilde, Padel, Gaming & Bel Canto.
 
-🚀 Arsenale Tecnologico
+🛠️ Arsenale Tecnologico
+
+Un mix di strumenti per lo sviluppo backend, frontend, design e analisi dati.
 
 <div align="center">
 
-Core & Backend
+Languages & Core
 
-Frontend & Design
+Web & Frameworks
 
-Tools & Robotics
+Design & Media
+
+Tools & Other
+
+
+
+
+
+
+
+
 
 
 
@@ -63,57 +89,69 @@ Tools & Robotics
 
 
 </div>
+
+🚀 Progetti in Evidenza
+
+Progetto
+
+Descrizione
+
+Tech Stack
+
+Middleware Logistica (ModulaV2)
+
+Web App per la gestione flussi di magazzino e interfacciamento tra hardware automatici ed ERP. Orchestrazione ibrida DB2/SQL Server.
+
+Java SQL Barcode Logic
+
+01 Informatica
+
+Gestione sito web, assistenza tecnica e sviluppo software gestionale.
+
+CMS Web Design Support
+
+First Lego League USA
+
+Coordinamento team scientifico negli USA per competizione internazionale di robotica.
+
+Leadership Robotics Public Speaking
+
+Vento e Vertigine
+
+Progetto di volontariato per l'innovazione etica e sostenibile.
+
+Ethical Tech Community
 
 📊 Statistiche GitHub
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DCoppiniFabioProjects%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe" height="180" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCoppiniFabioProjects%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe" height="180" alt="languages graph" />
-</div>
-
-⚡ Timeline Esperienza
-
-gantt
-    title Percorso Professionale & Accademico
-    dateFormat  YYYY-MM
-    section Formazione
-    Diploma Perito Informatico   :2013-09, 2018-06
-    Laurea Inf. Umanistica (Pisa):2018-09, 2023-12
-    section Carriera
-    Logistica (DHL/Madilo)       :2023-11, 2023-12
-    Educatore Robotica (Scienza Ludica) :2024-09, 2026-01
-    Apprendista Dev (01Informatica)     :2025-05, 2026-01
-
-
-🧠 Interessi & Ispirazioni
-
-"La bellezza salverà il mondo."
-
-📚 Letteratura: Leopardi, Oscar Wilde, Fromm.
-
-🎵 Musica: Pavarotti, Bel Canto.
-
-🎾 Sport: Padel (Agonistico), Scacchi.
-
-🎮 Gaming: Strategia & Lore profonda.
-
-<div align="center">
 
 
 
 
 
-<a href="mailto:coppinifabio99@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-coppinifabio99%2540gmail.com-a855f7%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<a href="https://www.google.com/search?q=https://github.com/CoppiniFabioProjects">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DCoppiniFabioProjects%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe%26text_color%3De2e8f0" alt="Fabio's GitHub Stats" />
 </a>
-<a href="https://www.linkedin.com/in/coppinifabio/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Fabio%2520Coppini-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://www.ventoevertigine.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Volontariato-Vento%2520e%2520Vertigine-white%3Fstyle%3Dflat-square%26logo%3Dheart%26logoColor%3Dred" alt="Volontariato" />
+
+
+
+
+
+
+
+<a href="https://www.google.com/search?q=https://github.com/CoppiniFabioProjects">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCoppiniFabioProjects%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26text_color%3De2e8f0" alt="Top Langs" />
 </a>
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D100%26section%3Dfooter" width="100%" alt="Footer" />
+<p>
+Code forged in fire & logic. 
+
+
+
+
+&copy; Fabio Coppini
+</p>
 </div>
