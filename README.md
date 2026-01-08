@@ -67,7 +67,6 @@ Tools & Robotics
 📊 Statistiche GitHub
 
 <div align="center">
-<!-- Sostituisci CoppiniFabioProjects con il tuo username se diverso -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DCoppiniFabioProjects%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe" height="180" alt="stats graph" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCoppiniFabioProjects%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0f172a%26title_color%3Da855f7%26icon_color%3Dd8b4fe" height="180" alt="languages graph" />
 </div>
