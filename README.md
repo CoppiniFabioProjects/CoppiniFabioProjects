@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CoppiniFabioProjects/portfolio/main/garuda.png" alt="Garuda" width="180" />
+<img src="https://raw.githubusercontent.com/CoppiniFabioProjects/portfolio/main/public/garuda.png" alt="Garuda" width="180" />
 
 # Ciao, sono Fabio Coppini 🦅
 
